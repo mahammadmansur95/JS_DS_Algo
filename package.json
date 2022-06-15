@@ -1,0 +1,20 @@
+{
+  "name": "js_ds_algo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahammadmansur95/JS_DS_Algo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahammadmansur95/JS_DS_Algo/issues"
+  },
+  "homepage": "https://github.com/mahammadmansur95/JS_DS_Algo#readme"
+}
